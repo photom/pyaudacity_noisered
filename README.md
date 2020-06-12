@@ -26,8 +26,9 @@ pyaudacity.noisered(profile_path, profile_start, profile_end,
 
 # build
 ## requirement
-* sndfile
-* soxr
+* sndfile library
+* soxr library
+* zib library
 
 ## command
 ```
